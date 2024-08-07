@@ -5,21 +5,21 @@
 
 Es un lenguaje:
 
-- De Alto nivel.
-- Interpretado y Dinámico.
-- Débilmente tipado.
-- Multiparadigma.
-- Sensible a MAYUSCULAS y minúsculas.
-- No necesita los puntos y comas al final de cada línea.
+	- De Alto nivel.
+	- Interpretado y Dinámico.
+	- Débilmente tipado.
+	- Multiparadigma.
+	- Sensible a MAYUSCULAS y minúsculas.
+	- No necesita los puntos y comas al final de cada línea.
 
 ### Escritura de código
 
 Los **Identificadores** deben comenzar con:
 
-- Una letra
-- Un signo de dólar $
-- Un guion bajo __
-- Nunca con números o caracteres especiales.
+	- Una letra
+	- Un signo de dólar $
+	- Un guion bajo __
+	- Nunca con números o caracteres especiales.
 
 #### Uso de ***snake_case***
 
@@ -115,10 +115,10 @@ json = new SerHumano("Jonathan", "Hombre")
 
 ### Ordenamiento de código
 
-1. IMPORTACION DE MODULOS.
-2. DECLARACIÓN DE VARIABLES.
-3. DECLARACIÓN DE FUNCIONES.
-4. EJECUCION DE CÓDIGO.
+	1. IMPORTACION DE MODULOS.
+	2. DECLARACIÓN DE VARIABLES.
+	3. DECLARACIÓN DE FUNCIONES.
+	4. EJECUCION DE CÓDIGO.
 
 ### Tipos de datos en JavaScript
 
@@ -129,6 +129,7 @@ json = new SerHumano("Jonathan", "Hombre")
 	4. null
 	5. undefined
 	6. NaN
+
 2. Datos **Compuestos:** se accede a la referencia del valor
 	1. Objet = {}
 	2. array = []
