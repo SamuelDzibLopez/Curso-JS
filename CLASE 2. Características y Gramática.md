@@ -1,6 +1,7 @@
 # 2. Características y Gramática.
 
 	JavaScript es el único lenguaje de programación que permite el ISOMORFISMO.
+
 ### Características:
 
 Es un lenguaje:

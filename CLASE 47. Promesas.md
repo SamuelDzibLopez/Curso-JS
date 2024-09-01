@@ -1,7 +1,6 @@
-
 # 47. Promises.
 
-Cuando tenemos una cola de ***callbacks*** que es muy dificil de controlar. podemos usar el mecanismo de ***JavaScript*** llamado ***promesa***.
+Cuando tenemos una cola de ***callbacks*** que es muy difícil de controlar. podemos usar el mecanismo de ***JavaScript*** llamado ***promesa***.
 
 La sintaxis de una ***promesa*** es:
 
